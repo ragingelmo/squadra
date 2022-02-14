@@ -728,6 +728,15 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+  - name: Simran Singh
+    github: 
+      username: ragingelmo
+      role: member
+    mailgun:
+      email: simran27@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
